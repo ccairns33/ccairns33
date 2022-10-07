@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 
 <!-- Repo Stats -->
 <div style="padding-top:25px; margin-top:10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=200&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;display:inline;" align="left" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ccairns33&card_width=200&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;display:inline;" align="left" width="40%"/>
   
 <!-- Technologies, Languages, Frameworks, etc -->
-<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglium&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala" style="vertical-align:middle; float:right; overflow:auto;display:inline;" align="right" width="45%"/>
+<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccairns33&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala" style="vertical-align:middle; float:right; overflow:auto;display:inline;" align="right" width="45%"/>
 </div>
 
 
 
 <!-- Contribution Graph -->
 <div>
-<img alt="Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trianglium&bg_color=0c1014&color=2a856e&title_color=2aa889&line=2aa889&point=99d1ce&hide_border=true" style="vertical-align:middle;" width="100%"/>
+<img alt="Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ccairns33&bg_color=0c1014&color=2a856e&title_color=2aa889&line=2aa889&point=99d1ce&hide_border=true" style="vertical-align:middle;" width="100%"/>
 </div>
 
 
