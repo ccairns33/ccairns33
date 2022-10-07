@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=ccairns33&card_width=200&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;display:inline;" align="left" width="40%"/>
   
 <!-- Technologies, Languages, Frameworks, etc -->
-<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccairns33&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala" style="vertical-align:middle; float:right; overflow:auto;display:inline;" align="right" width="45%"/>
+<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccairns33&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=python,html,groovy,ruby,jupyter%20notebook,scala" style="vertical-align:middle; float:right; overflow:auto;display:inline;" align="right" width="45%"/>
 </div>
 
 
